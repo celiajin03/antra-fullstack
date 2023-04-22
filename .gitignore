@@ -1,0 +1,33 @@
+# Visual Studio Code files
+.vs/
+*.userprefs
+*.suo
+
+# Binaries and build files
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+
+
+# macOS files
+.DS_Store
+
+# Solution files
+*.sln
+
+# NuGet
+packages/
+*.nupkg
+**/project.lock.json
+
+
+
+
+
+
