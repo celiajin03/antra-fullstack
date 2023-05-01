@@ -1,0 +1,15 @@
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/bin/Debug/net6.0/School
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/bin/Debug/net6.0/School.deps.json
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/bin/Debug/net6.0/School.runtimeconfig.json
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/bin/Debug/net6.0/School.dll
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/bin/Debug/net6.0/School.pdb
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.csproj.AssemblyReference.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.AssemblyInfoInputs.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.AssemblyInfo.cs
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.csproj.CoreCompileInputs.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.dll
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/refint/School.dll
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.pdb
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/School.genruntimeconfig.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/School/obj/Debug/net6.0/ref/School.dll

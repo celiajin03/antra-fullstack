@@ -1,0 +1,15 @@
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/bin/Debug/net6.0/ColorBall
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/bin/Debug/net6.0/ColorBall.deps.json
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/bin/Debug/net6.0/ColorBall.runtimeconfig.json
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/bin/Debug/net6.0/ColorBall.dll
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/bin/Debug/net6.0/ColorBall.pdb
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.csproj.AssemblyReference.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.AssemblyInfoInputs.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.AssemblyInfo.cs
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.csproj.CoreCompileInputs.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.dll
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/refint/ColorBall.dll
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.pdb
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ColorBall.genruntimeconfig.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/ColorBall/obj/Debug/net6.0/ref/ColorBall.dll

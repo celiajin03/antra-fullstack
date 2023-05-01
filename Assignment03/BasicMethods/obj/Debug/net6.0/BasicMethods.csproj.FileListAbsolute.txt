@@ -1,0 +1,5 @@
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/BasicMethods/obj/Debug/net6.0/BasicMethods.csproj.AssemblyReference.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/BasicMethods/obj/Debug/net6.0/BasicMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/BasicMethods/obj/Debug/net6.0/BasicMethods.AssemblyInfoInputs.cache
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/BasicMethods/obj/Debug/net6.0/BasicMethods.AssemblyInfo.cs
+/Users/celia/Desktop/Antra/antra-fullstack/Assignment03/BasicMethods/obj/Debug/net6.0/BasicMethods.csproj.CoreCompileInputs.cache
